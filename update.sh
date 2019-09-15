@@ -1,0 +1,1 @@
+rsync -avz . ubuntu@120.132.14.127:~/uchaindb/
